@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: baseball
+    database: baseball
+    schema: public
+    tables:
+      - name: tablename
+      - name: pitching
+      - name: people
+      - name: pitchingpost
+      - name: salaries
+      - name: schools
+      - name: seriespost
+      - name: states
+      - name: teamsfranchises
+      - name: teamshalf
